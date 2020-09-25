@@ -1,6 +1,3 @@
-# Project_Find_Spam_NLP
-Spam Detector
-
 # Finding Spam Messages (Natural Language Processing): Project Overview
 - Creating a machine learning model which detecting spam messages.
 - The data I'am using is from Kaggle's dog breed identification competition.
